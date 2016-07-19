@@ -1,0 +1,18 @@
+/* 
+    Document   : estilo
+    Created on : 18/07/2016, 21:29:38
+    Author     : Fernando
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+
+/* Detalhes da tabela que será exibido o resultado da pesquisa */
+#tbl_aluno{border-collapse: collapse; margin: 0 auto auto;}
+#tbl_aluno tr,#tbl_aluno td, #tbl_aluno th {border-collapse: collapse; border: 1px solid #9f6100; padding: 8px; text-align: center;}
+#tbl_aluno th{ background-color: #006df0; color: white;}
